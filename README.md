@@ -5,4 +5,4 @@ This uploaded section of the project works on Xampp for backed services.
 PHP and MYSQL is used to develop the server side.
 HTML, CSS and JavaScript is used to develop the front end of this project.
 If you want to learn how these technologies work visit https://www.w3schools.com/.
-You can view the screenshots of the project by clicking on the given google drive link https://drive.google.com/open?id=1Q1g9MeaOFttWV72dIelpIUgfXEEw5gN-
+You can view the screenshots of the project by clicking on the given google drive link https://drive.google.com/open?id=1GssgKgE0gSHOT05jLfW4vlvPDMkyLuhm
